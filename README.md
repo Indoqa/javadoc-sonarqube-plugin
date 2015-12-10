@@ -1,0 +1,1 @@
+# Indoqa Javadoc Sonar Plugin
